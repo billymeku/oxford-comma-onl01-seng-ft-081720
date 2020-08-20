@@ -6,6 +6,6 @@ def oxford_comma(array)
   else array.length == 3
     array.join(',')
    arr = array.pop
-   array.join(", ") << ", and #{lastStr}"
+   array.join(", ") << ", and #{arr}"
   end
 end
