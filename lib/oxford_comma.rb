@@ -1,4 +1,4 @@
 def oxford_comma(array)
   #array =[]
-puts "join : #{array.join("*")}""
+arr=array.join
 end
